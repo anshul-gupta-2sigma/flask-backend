@@ -2,3 +2,4 @@ Flask
 tree_sitter
 tree_sitter_python
 tree_sitter_java
+gunicorn==21.2.0
